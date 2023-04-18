@@ -3,7 +3,7 @@
 
 - 📍 I'm based in Bangkok, Thailand
 
-- 📚 I’m currently learning **ReactJS and looking forward to NextJS**
+- 📚 I’m currently learning **ReactJS and moving forward to NextJS**
 
 - 📧 Contact Me By Email : **yoo.kunlanis@gmail.com**
 
