@@ -1,11 +1,13 @@
-<h1>Hi 👋, I'm Cake</h1>
+<h1>Hi 🖐🏽 , I'm Cake</h1>
 <h3>I just finished a fullstack developer course from SprintTech!!</h3>
 
-- 🌱 I’m currently learning **ReactJS and looking forward to NextJS**
+- 📍 I'm based in Bangkok, Thailand
 
-- 📫 Contact Me By Sending Email to **yoo.kunlanis@gmail.com**
+- 📚 I’m currently learning **ReactJS and looking forward to NextJS**
 
-- 📄 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/">My Resume</a>
+- 📧 Contact Me By Email : **yoo.kunlanis@gmail.com**
+
+- 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
