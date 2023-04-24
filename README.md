@@ -52,7 +52,7 @@
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="36" alt="Docker" /></a>
 <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://static.macupdate.com/products/35643/l/sourcetree-logo.png?v=1670568512" width="36" height="36" alt="SourceTree" /></a>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-3629070-3030342.png" width="36" height="36" alt="SourceTree" /></a>
 </p>
 
 
