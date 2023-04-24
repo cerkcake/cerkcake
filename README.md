@@ -7,13 +7,13 @@
 <h1  align="center" >Hi 🖐🏽 , I'm Cake</h1>
 <h3>I just finished a fullstack developer course from SprintTech!!</h3>
 
-  - 📍 I'm based in Bangkok, Thailand
+- 📍  I'm based in Bangkok, Thailand
 
-  - 📚 I’m currently learning **ReactJS and moving forward to NextJS**
+- 📚 I’m currently learning **ReactJS and moving forward to NextJS**
 
-  - 📧 Contact Me By Email : **yoo.kunlanis@gmail.com**
+- 📧 Contact Me By Email : **yoo.kunlanis@gmail.com**
 
-  - 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/">My Resume</a>
+- 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/" target="_blank">My Resume</a>
 
 
 <h3 align="left">What I Learn:</h3>
@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" height="36" alt="Prisma" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="36" alt="Express" /></a>
@@ -49,9 +49,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="36" alt="Jest" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36" alt="Figma" /></a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="36" alt="Docker" /></a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="36" alt="Docker" /></a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://static.macupdate.com/products/35643/l/sourcetree-logo.png?v=1670568512" width="36" height="36" alt="SourceTree" /></a>
 </p>
+
+
 
 <h3 align="left">Links:</h3>
 <p align="left">
