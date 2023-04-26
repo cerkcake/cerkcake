@@ -1,6 +1,6 @@
 <div id="header" align="center">
  
-  <img src="https://media3.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="150"/>
+  <img src="https://media.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" width="200"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cerkcake&style=flat-square&color=blue" alt=""/>
