@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://66.media.tumblr.com/270f96c1a06304baae3ea876e6ad8088/tumblr_mvp4007nRy1spo3yuo1_500.gif" width="150"/>
+ 
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="150"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cerkcake&style=flat-square&color=blue" alt=""/>
 </div>
-<h1  align="center" >Hi 🖐🏽 , I'm Cake</h1>
+<h1  align="center" >Hi 🖐🏽 , I'm  <img src="https://66.media.tumblr.com/270f96c1a06304baae3ea876e6ad8088/tumblr_mvp4007nRy1spo3yuo1_500.gif" width="100"/></h1>
 <h3>I just finished a fullstack developer course from SprintTech!!</h3>
 
 - 📍  I'm based in Bangkok, Thailand
