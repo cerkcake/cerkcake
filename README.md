@@ -16,7 +16,6 @@
 
 - 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/" target="_blank">My Resume</a>
 
-
 <h3 align="left">What I Learn:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -56,6 +55,12 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-3629070-3030342.png" width="36" height="36" alt="SourceTree" /></a>
 </p>
 
+<h3 align="left">My Deployed Project:</h3>
+<p align="left">
+<a href="https://cake-lotto.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/2600/2600475.png" height="36" alt="Cake-Lotto" /><p>Checking lottery and calculate the prize you will earn</p></a>
+<a href="https://movies888.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2798/2798024.png" height="36" alt="Movies888" /><p>See what's new in movie theater</p></a>
+<a href="https://squaduled.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3079/3079014.png" height="36" alt="Squaduled" /><p>Booking a meeting room within the organization</p></a>
+</p>
 
 
 <h3 align="left">Links:</h3>
