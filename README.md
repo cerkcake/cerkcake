@@ -26,7 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" /></a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
@@ -56,11 +55,11 @@
 </p>
 
 <h3 align="left">My Deployed Project:</h3>
-<p align="left">
-<a href="https://cake-lotto.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/2600/2600475.png" height="36" alt="Cake-Lotto" /><p>Checking lottery and calculate the prize you will earn</p></a>
-<a href="https://movies888.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2798/2798024.png" height="36" alt="Movies888" /><p>See what's new in movie theater</p></a>
-<a href="https://squaduled.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3079/3079014.png" height="36" alt="Squaduled" /><p>Booking a meeting room within the organization</p></a>
-</p>
+<p></p>
+<a href="https://cake-lotto.web.app/" target="_blank" rel="noreferrer"><img src="https://www.playsmart.ca/wp-content/uploads/2020/10/lightning-lotto-step-2.png" height="36" alt="Cake-Lotto" /><p>Checking lottery and calculate the prize you will earn</p></a>
+<a href="https://movies888.web.app/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/movie-icon-png/movie-icon-png-2.jpg" height="36" alt="Movies888" /><p>See what's new in movie theater</p></a>
+<a href="https://squaduled.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4206/4206324.png" height="36" alt="Squaduled" /><p>Booking a meeting room within the organization</p></a>
+
 
 
 <h3 align="left">Links:</h3>
