@@ -8,7 +8,7 @@
 <h1  align="center" >Hi 🖐🏽 , I'm Cake</h1>
 <h3>I just finished a fullstack developer course from SprintTech!!</h3>
 
-- 📍  I'm based in Bangkok, Thailand
+- 📍 I'm based in Bangkok, Thailand
 
 - 📚 I’m currently learning **ReactJS and moving forward to NextJS**
 
@@ -50,17 +50,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="36" alt="Figma" /></a>
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="36" alt="Docker" /></a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-3629070-3030342.png" width="36" height="36" alt="SourceTree" /></a>
-</p>
 
 <h3 align="left">My Deployed Project:</h3>
 <p></p>
-<a href="https://cake-lotto.web.app/" target="_blank" rel="noreferrer"><img src="https://www.playsmart.ca/wp-content/uploads/2020/10/lightning-lotto-step-2.png" height="36" alt="Cake-Lotto" /><p>Checking lottery and calculate the prize you will earn</p></a>
+<a href="https://cake-lotto.web.app/" target="_blank" rel="noreferrer"><img src="./lotto.PNG" height="36" alt="Cake-Lotto" /><p>Checking lottery and calculate the prize you will earn</p></a>
 <a href="https://movies888.web.app/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/movie-icon-png/movie-icon-png-2.jpg" height="36" alt="Movies888" /><p>See what's new in movie theater</p></a>
 <a href="https://squaduled.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4206/4206324.png" height="36" alt="Squaduled" /><p>Booking a meeting room within the organization</p></a>
-
-
 
 <h3 align="left">Links:</h3>
 <p align="left">
