@@ -54,6 +54,7 @@
 <h3 align="left">My Deployed Project:</h3>
 <p></p>
 <a href="https://squaduled.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4206/4206324.png" height="40" alt="Squaduled" /><p>Booking a meeting room within the organization</p></a>
+<a href="https://cake-todo-app.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1028/1028911.png" height="40" alt="Squaduled" /><p>Adding and Update your Tasks List</p></a>
 <a href="https://movies888.web.app/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/movie-icon-png/movie-icon-png-2.jpg" height="40" alt="Movies888" /><p>See what's new in movie theater</p></a>
 <a href="https://cake-lotto.web.app/" target="_blank" rel="noreferrer"><img src="./lotto.PNG" height="40" alt="Cake-Lotto" /><p>Checking lottery and calculate the prize you will earn</p></a>
 
