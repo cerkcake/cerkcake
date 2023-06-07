@@ -16,7 +16,7 @@
 
 - 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/" target="_blank">My Resume</a>
 
-<h3 align="left">What I Learn:</h3>
+<h3 align="left">My Skills:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="36" alt="HTML5" /></a>
