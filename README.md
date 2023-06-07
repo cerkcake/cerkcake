@@ -51,7 +51,7 @@
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="36" alt="Docker" /></a>
 
-<h3 align="left">My Deployed Project:</h3>
+<h3 align="left">My Portfolio:</h3>
 <p></p>
 <a href="https://squaduled.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4206/4206324.png" height="40" alt="Squaduled" /><p>Booking a meeting room within the organization</p></a>
 <a href="https://cake-todo-app.web.app/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1028/1028911.png" height="40" alt="Squaduled" /><p>Adding and Update your Tasks List</p></a>
