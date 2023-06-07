@@ -14,7 +14,7 @@
 
 - 📧 Contact Me By Email : **yoo.kunlanis@gmail.com**
 
-- 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/" target="_blank">My Resume</a>
+<!-- - 📜 Know about my experiences : <a href="https://sprinttech-cake-resume.web.app/" target="_blank">My Resume</a> -->
 
 <h3 align="left">My Skills:</h3>
 <p align="left">
